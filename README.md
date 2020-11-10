@@ -1,3 +1,3 @@
 # Pokladna
 
-Jiří hlaváček
+Lukáš Jelínek
